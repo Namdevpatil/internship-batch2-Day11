@@ -1,0 +1,34 @@
+Array: it is collection similar/homogeneous data type values stored in a variable.
+
+1. arrays works based index concepts
+
+2. array index starts from zero(0),
+   ends with length/size-1
+
+Types of Arrays:
+
+1. one dimensional array
+		- how to declare and initialize one dimensional array.
+
+=> one dimensional array declare and initialize in one statement/line	
+
+for example, int customerAges[] = {29, 56, 33};
+
+=> one dimensional array declare and initialize in multiple statements/lines
+		
+2. multidimensional array
+		- how to declare and initialize multidimensional array.
+		
+=> multidimensional array declare and initialize in one statement/line	
+
+for example, int matrix[][] = {{29, 56},{90 33}};
+
+=> multidimensional array declare and initialize in multiple statements/lines
+
+for example, int matrix[][] = new int[2][2];
+
+			 matrix[0][0] = 1;
+			 matrix[0][1] = 0;
+			 matrix[1][0] = 1;
+			 matrix[1][1] = 0;
+			 

@@ -1,0 +1,15 @@
+1. the size of the array is fixed, not able modify the size.
+
+2. not able to store heterogeneous/dissimilar values.
+
+3. no proper API is there for an arrays.
+
+-------------------------------------------------------------------
+
+The above problems we can Overcome with Java Collections
+
+1. the size of the Java Collections is not fixed, able modify the size
+
+2. able to store heterogeneous/dissimilar values.
+
+3. we have proper API is there for Java Collections.
